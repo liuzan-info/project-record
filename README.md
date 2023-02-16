@@ -13,6 +13,12 @@ Record project plan and relative papers
 
 有对以往方法的比较，比较全面 A knowledge graph embedding based approach to predict the adverse drug reactions using a deep neural network https://www.sciencedirect.com/science/article/pii/S1532046422001381 `无code`
 
+综述 
+- 2019
+Duc Anh Nguyen, Canh Hao Nguyen, Hiroshi Mamitsuka, A survey on adverse drug reaction studies: data, tasks and machine learning methods, Briefings in Bioinformatics, Volume 22, Issue 1, January 2021, Pages 164–177, https://doi.org/10.1093/bib/bbz140 `code` https://github.com/anhnda/ADRPModels
+
+
+
 待看
 https://link.springer.com/article/10.1007/s40264-022-01190-3
 https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-021-01402-3
@@ -56,6 +62,8 @@ DeepPSE: Prediction of polypharmacy side effects by fusing deep representation o
 
 解决了在graph中新药难以引入的问题  SimVec: predicting polypharmacy side effects for new drugs https://jcheminf.biomedcentral.com/articles/10.1186/s13321-022-00632-5 `code`  https://github.com/jbr-ai-labs/simvec
 ### 药物联用药效预测
+NMI 代码齐全、数据完备 https://www.nature.com/articles/s42256-022-00541-0#code-availability `code` https://codeocean.com/capsule/1993810/tree/v1
+
 将联用不良反应的预测作为辅助任务，进行多任务学习来改进联用药效的预测 Improving therapeutic synergy score predictions with adverse effects using multi-task heterogeneous network learning https://academic.oup.com/bib/article/24/1/bbac564/6958504?login=false `code`https://github.com/arantir123/HNEMA
 
 Multi-way relation-enhanced hypergraph representation learning for anti-cancer drug synergy prediction https://academic.oup.com/bioinformatics/article-abstract/38/20/4782/6674505 `code` https://github.com/liuxuan666/HypergraphSynergy
