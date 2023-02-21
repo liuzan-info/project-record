@@ -27,6 +27,23 @@ Artificial intelligence for drug toxicity and safety https://www.safetylit.org/c
 
 Predicting drug side effects with compact integration of heterogeneous networks 找不到这个文章
 
+### 2020
+Adverse Drug Reactions Prediction Using Multi-label Linear Discriminant Analysis and Multi-label Learning  https://ieeexplore.ieee.org/abstract/document/9263166
+
+Development of an adverse drug event network to predict drug toxicity https://www.sciencedirect.com/science/article/pii/S2666027X20300074
+
+使用了病例数据 Exploiting complex medical data with interpretable deep learning for adverse drug event prediction  https://www.sciencedirect.com/science/article/pii/S0933365719311546
+
+Comparison of the predictive outcomes for anti-tuberculosis drug-induced hepatotoxicity by different machine learning technique https://www.sciencedirect.com/science/article/abs/pii/S0169260719302378
+
+NDDSA: A network- and domain-based method for predicting drug-side effect associations https://www.sciencedirect.com/science/article/abs/pii/S0306457320308529
+
+看不懂 Predicting potential adverse events using safety data from marketed drugs https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-020-3509-7
+
+使用了SNP在内的多种数据  Prediction of Side Effects Using Comprehensive Similarity Measures https://www.hindawi.com/journals/bmri/2020/1357630/
+
+AwareDX: Using Machine Learning to Identify Drugs Posing Increased Risk of Adverse Reactions to Women https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3624461
+
 ### 2021
 A survey on adverse drug reaction studies: data, tasks and machine learning methods, Briefings in Bioinformatics, Volume 22, Issue 1, January 2021, Pages 164–177, https://doi.org/10.1093/bib/bbz140 `code` https://github.com/anhnda/ADRPModels
 
@@ -85,6 +102,7 @@ Advanced machine-learning techniques in drug discovery
 
 Pushing the Boundaries of Molecular Representation for Drug Discovery with the Graph Attention Mechanism. https://europepmc.org/article/med/31408336
 
+Graph convolutional networks for computational drug development and discovery https://academic.oup.com/bib/article/21/3/919/5498046?login=false
 
 ### 药物靶标预测
 Machine learning approaches and databases for prediction of drug-target interaction: a survey paper
@@ -137,6 +155,9 @@ NMI 代码齐全、数据完备 https://www.nature.com/articles/s42256-022-00541
 
 Multi-way relation-enhanced hypergraph representation learning for anti-cancer drug synergy prediction https://academic.oup.com/bioinformatics/article-abstract/38/20/4782/6674505 `code` https://github.com/liuxuan666/HypergraphSynergy
 
+A multimodal deep learning framework for predicting drug–drug interaction events https://academic.oup.com/bioinformatics/article/36/15/4316/5837109?login=false
+
+引用高，star数多，代码完善，值得学习  KGNN: Knowledge Graph Neural Network for Drug-Drug Interaction Prediction. https://xuanlin1991.github.io/files/publications/ijcai20.pdf `code` https://github.com/xzenglab/KGNN
 
 ### 可解释性机器学习
 jupyter格式，完整的数据分析流程，适合入门 XML-CIMT: Explainable Machine Learning (XML) Model for Predicting Chemical-Induced Mitochondrial Toxicity https://www.mdpi.com/1422-0067/23/24/15655 `code`https://github.com/Rehman1995/XML-CIMT
