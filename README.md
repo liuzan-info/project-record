@@ -1,7 +1,9 @@
 # project-record
 Record project plan and relative papers
 
+
 ## ADR预测相关文章
+
 ### 2018
 Predicting adverse drug reactions through interpretable deep learning framework https://0-bmcbioinformatics-biomedcentral-com.brum.beds.ac.uk/articles/10.1186/s12859-018-2544-0
 
@@ -179,6 +181,9 @@ A review of network-based approaches to drug repositioning  https://academic.oup
 Nature  A SARS-CoV-2 protein interaction map reveals targets for drug repurposing
 
 NC期刊 A genome-wide positioning systems network algorithm for in silico drug repurposing  https://wwwnature.53yu.com/articles/s41467-019-10744-6
+
+### pre-train
+BERT-Kcr: prediction of lysine crotonylation sites by a transfer learning method with pre-trained BERT models https://academic.oup.com/bioinformatics/article/38/3/648/6395351?login=true 
 
 
 ### 其他感兴趣的文章
